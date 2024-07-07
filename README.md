@@ -1,0 +1,1 @@
+Kadane's Algorithm is a popular algorithm used to solve the "Maximum Subarray Problem," which seeks to find the contiguous subarray within a one-dimensional array of numbers that has the largest sum. This algorithm operates in linear time, making it highly efficient for large datasets.
